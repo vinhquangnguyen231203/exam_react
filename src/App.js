@@ -1,9 +1,10 @@
-import Home from "./components/Home";
+import Chemicals from "./components/chemicals/Chemicals";
+
 
 function App() {
   return (
     <div className="App">
-      <Home/>
+      <Chemicals/>
     </div>
   );
 }
